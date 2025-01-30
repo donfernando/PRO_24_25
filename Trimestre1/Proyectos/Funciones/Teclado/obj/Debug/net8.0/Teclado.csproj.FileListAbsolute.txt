@@ -1,0 +1,14 @@
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/bin/Debug/net8.0/Teclado
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/bin/Debug/net8.0/Teclado.deps.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/bin/Debug/net8.0/Teclado.runtimeconfig.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/bin/Debug/net8.0/Teclado.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/bin/Debug/net8.0/Teclado.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/obj/Debug/net8.0/Teclado.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/obj/Debug/net8.0/Teclado.AssemblyInfoInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/obj/Debug/net8.0/Teclado.AssemblyInfo.cs
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/obj/Debug/net8.0/Teclado.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/obj/Debug/net8.0/Teclado.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/obj/Debug/net8.0/refint/Teclado.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/obj/Debug/net8.0/Teclado.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/obj/Debug/net8.0/Teclado.genruntimeconfig.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/Funciones/Teclado/obj/Debug/net8.0/ref/Teclado.dll

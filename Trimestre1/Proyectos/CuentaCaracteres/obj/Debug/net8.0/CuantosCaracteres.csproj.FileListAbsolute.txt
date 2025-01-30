@@ -1,0 +1,14 @@
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/bin/Debug/net8.0/CuantosCaracteres
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/bin/Debug/net8.0/CuantosCaracteres.deps.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/bin/Debug/net8.0/CuantosCaracteres.runtimeconfig.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/bin/Debug/net8.0/CuantosCaracteres.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/bin/Debug/net8.0/CuantosCaracteres.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/obj/Debug/net8.0/CuantosCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/obj/Debug/net8.0/CuantosCaracteres.AssemblyInfoInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/obj/Debug/net8.0/CuantosCaracteres.AssemblyInfo.cs
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/obj/Debug/net8.0/CuantosCaracteres.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/obj/Debug/net8.0/CuantosCaracteres.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/obj/Debug/net8.0/refint/CuantosCaracteres.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/obj/Debug/net8.0/CuantosCaracteres.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/obj/Debug/net8.0/CuantosCaracteres.genruntimeconfig.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Publico/Trimestre1/Proyectos/CuantosCaracteres/obj/Debug/net8.0/ref/CuantosCaracteres.dll

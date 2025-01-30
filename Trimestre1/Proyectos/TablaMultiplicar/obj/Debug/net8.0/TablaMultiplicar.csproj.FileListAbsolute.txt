@@ -1,0 +1,14 @@
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/bin/Debug/net8.0/TablaMultiplicar
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/bin/Debug/net8.0/TablaMultiplicar.deps.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/bin/Debug/net8.0/TablaMultiplicar.runtimeconfig.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/bin/Debug/net8.0/TablaMultiplicar.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/bin/Debug/net8.0/TablaMultiplicar.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/obj/Debug/net8.0/TablaMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/obj/Debug/net8.0/TablaMultiplicar.AssemblyInfoInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/obj/Debug/net8.0/TablaMultiplicar.AssemblyInfo.cs
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/obj/Debug/net8.0/TablaMultiplicar.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/obj/Debug/net8.0/TablaMultiplicar.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/obj/Debug/net8.0/refint/TablaMultiplicar.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/obj/Debug/net8.0/TablaMultiplicar.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/obj/Debug/net8.0/TablaMultiplicar.genruntimeconfig.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/TablaMultiplicar/obj/Debug/net8.0/ref/TablaMultiplicar.dll

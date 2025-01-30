@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-22" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="1dawa" created="2024-09-30" changedby="ftoblare" changed="2024-10-01" origin="Structorizer 3.32-22" text="&#34;Dado un número de segundos determinado por teclado, mostrar su correspondencia en horas, minutos y segundos.&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;INPUT segundosTotales&#34;,&#34;segundos &#60;- segundosTotales&#34;" comment="&#34;Leer los segundos totales del usuario&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;minutos &#60;- segundos/60&#34;,&#34;segundos &#60;- segundos % 60&#34;" comment="&#34;Agrupar los segundos en grupos de 60 para calcular minutos&#34;,&#34;y actualizar despues los segundos para que solo tengan los segundos que no forman un minuto completo&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;horas &#60;- minutos/60&#34;,&#34;minutos &#60;- minutos%60&#34;" comment="&#34;Agrupar los minutos en grupos de 60 para calcular horas&#34;,&#34;y actualizar después los minutos para que sólo tengan los minutos que no forman una hora completa&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;horas &#60;- horas % 24&#34;" comment="&#34;Actualizar las horas para que no excedan de 23&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;OUTPUT segundosTotales + &#34;&#34; seg. = &#34;&#34; + horas + &#34;&#34;:&#34;&#34; + minutos + &#34;&#34;:&#34;&#34; + segundos&#34;" comment="&#34;Mostrar resultados&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+	</children>
+</root>

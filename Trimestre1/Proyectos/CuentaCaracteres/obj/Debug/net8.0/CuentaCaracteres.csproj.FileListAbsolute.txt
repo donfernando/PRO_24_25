@@ -1,0 +1,14 @@
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/bin/Debug/net8.0/CuentaCaracteres
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/bin/Debug/net8.0/CuentaCaracteres.deps.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/bin/Debug/net8.0/CuentaCaracteres.runtimeconfig.json
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/bin/Debug/net8.0/CuentaCaracteres.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/bin/Debug/net8.0/CuentaCaracteres.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/obj/Debug/net8.0/CuentaCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/obj/Debug/net8.0/CuentaCaracteres.AssemblyInfoInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/obj/Debug/net8.0/CuentaCaracteres.AssemblyInfo.cs
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/obj/Debug/net8.0/CuentaCaracteres.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/obj/Debug/net8.0/CuentaCaracteres.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/obj/Debug/net8.0/refint/CuentaCaracteres.dll
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/obj/Debug/net8.0/CuentaCaracteres.pdb
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/obj/Debug/net8.0/CuentaCaracteres.genruntimeconfig.cache
+/home/fernando/Documentos/nubes/ftoblare@gmail.com/Curso_2024_25/PRO/Trimestre1/Proyectos/CuentaCaracteres/obj/Debug/net8.0/ref/CuentaCaracteres.dll

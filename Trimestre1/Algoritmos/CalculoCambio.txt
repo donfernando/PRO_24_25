@@ -1,0 +1,29 @@
+PseudoAlgoritmo
+
+1."Precio" es lo que hay que cobrar
+2."Pago" es el billete que me da el cliente
+3.Calculo el "Cambio" restando al Pago el Precio.
+4.Repetir hasta que Cambio sea cero.
+    4.1.Coger el billete/moneda mayor que no supere la cantidad Cambio.
+    4.2.Y lo añado a las "Vueltas".
+    4.3.Y lo resto de la cantidad Cambio
+5.Dar al cliente las Vueltas.
+
+Algoritmo
+
+1."Precio" es lo que hay que cobrar
+2."Pago" es el billete que me da el cliente
+3.Calculo el "Cambio" restando al Pago el Precio.
+4.Repetir hasta que Cambio sea cero, 
+  o en la caja no existe unidad que no supere el Cambio
+    4.1.Coger el billete/moneda mayor que no supere la cantidad Cambio.
+    4.2.Y lo añado a las "Vueltas".
+    4.3.Y lo resto de la cantidad Cambio
+5.Si el Cambio es cero.
+    5.1.Dar al cliente las Vueltas.
+  Si no
+    5.2.Devolver al cliente su Pago
+        Devolver Vueltas a la caja.
+        Anular venta
+
+    

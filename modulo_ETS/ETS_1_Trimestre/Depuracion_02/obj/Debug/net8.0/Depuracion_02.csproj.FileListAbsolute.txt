@@ -1,0 +1,14 @@
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\bin\Debug\net8.0\Depuracion_02.exe
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\bin\Debug\net8.0\Depuracion_02.deps.json
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\bin\Debug\net8.0\Depuracion_02.runtimeconfig.json
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\bin\Debug\net8.0\Depuracion_02.dll
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\bin\Debug\net8.0\Depuracion_02.pdb
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\obj\Debug\net8.0\Depuracion_02.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\obj\Debug\net8.0\Depuracion_02.AssemblyInfoInputs.cache
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\obj\Debug\net8.0\Depuracion_02.AssemblyInfo.cs
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\obj\Debug\net8.0\Depuracion_02.csproj.CoreCompileInputs.cache
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\obj\Debug\net8.0\Depuracion_02.dll
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\obj\Debug\net8.0\refint\Depuracion_02.dll
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\obj\Debug\net8.0\Depuracion_02.pdb
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\obj\Debug\net8.0\Depuracion_02.genruntimeconfig.cache
+Z:\Publico\modulo_ETS\ETS_1_Trimestre\Depuracion_02\obj\Debug\net8.0\ref\Depuracion_02.dll
