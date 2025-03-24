@@ -35,6 +35,34 @@ class Punto
     }
     public Punto(int xy):this(xy,xy){
     }
+    public void Subir()
+    {
+        if (y == MIN_Y)
+            y = MAX_Y;
+        else
+            y--;
+    }
+    public void Bajar()
+    {
+        if (y == MAX_Y)
+            y = MIN_Y;
+        else
+            y++;
+    }
+    public void Izquierda()
+    {
+        if (x == MIN_X)
+            x = MAX_X;
+        else
+            x--;
+    }
+    public void Derecha()
+    {
+        if (x == MAX_X)
+            x = MIN_X;
+        else
+            x++;
+    }
 
     public float Distancia(Punto otro){
         int dX,dY;

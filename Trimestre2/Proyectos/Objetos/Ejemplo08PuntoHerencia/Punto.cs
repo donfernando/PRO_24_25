@@ -1,13 +1,14 @@
-class Punto
+namespace servicios.dig.cesarmanrique;
+public class Punto
 {
     public const int MAX_X = 80;
     public const int MIN_X = 1;
     public const int MAX_Y = 25;
     public const int MIN_Y = 1;
 
-    private int _x;
-    private int _y;
-    public int x {
+    protected int _x;
+    protected int _y;
+    public virtual int x {
         get {
             return _x;
         }
@@ -16,7 +17,7 @@ class Punto
                 _x = value;
         }
     }
-    public int y {
+    public virtual int y {
         get {
             return _y;
         }
@@ -29,30 +30,34 @@ class Punto
     public Punto(){
         _x=_y=1;
     }
-    public Punto(int x, int y):this(){
-        this.x = x;
-        this.y = y;
+    public Punto(int x, int y){
+        if(x<MIN_X || x>MAX_X || y<MIN_Y || y > MAX_Y)
+            throw new Exception();
+        _x = x;
+        _y = y;
     }
     public Punto(int xy):this(xy,xy){
     }
 
-    public float Distancia(Punto otro){
+    public virtual float Distancia(Punto otro){
         int dX,dY;
         dX = _x - otro._x;
         dY = _y - otro._y;
         return (float)Math.Sqrt(dX*dX+dY*dY);
     }
 
-    public void Mostrar(char ch){
-        ValueTuple<int,int> pos;
-        pos = Console.GetCursorPosition();
-        Console.SetCursorPosition(_x,_y);
-        Console.WriteLine(ch);
-        Console.SetCursorPosition(pos.Item1,pos.Item2);
-    }
-
-
     public override string ToString(){
         return $"({_x},{_y})";
+    }
+
+    public override bool Equals(object? o){
+        // if(o==null || o is Punto) NO RECOMENDABLE
+        if(o==null || o.GetType() != GetType())
+            return false;
+        Punto pOtro = (Punto)o;
+        return _x == pOtro._x && _y == pOtro._y;
+    }
+    public override int GetHashCode(){
+        return (_x, _y).GetHashCode();
     }
 }

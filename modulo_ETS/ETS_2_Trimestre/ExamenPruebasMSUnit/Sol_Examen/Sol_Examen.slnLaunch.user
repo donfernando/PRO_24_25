@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "TestPrimeCalculatorProfeSor\\TestPrimeCalculatorProfeSor.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

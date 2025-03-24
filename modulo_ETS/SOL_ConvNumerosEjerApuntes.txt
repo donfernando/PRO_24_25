@@ -1,0 +1,7 @@
+a. 100011010   (11A hex)
+b. 01000011  (43 hex)
+c. 229
+d. 794
+e. 100
+f. 715(octal) y 1CD(hex)
+g. 7472(octal) y F3A(hex)
